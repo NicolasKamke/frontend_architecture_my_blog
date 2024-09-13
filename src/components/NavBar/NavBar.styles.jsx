@@ -9,6 +9,7 @@ const Container = styled.body`
 const Button = styled.div`
   background: transparent;
   border: transparent;
+  cursor: pointer;
 `;
 
 export { Container, Button };

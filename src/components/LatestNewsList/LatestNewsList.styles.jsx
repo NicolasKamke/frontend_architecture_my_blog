@@ -21,7 +21,15 @@ const Title = styled.h2`
   font-size: xx-large;
 `;
 
-const Button = styled.button``;
+const Button = styled.button`
+  color: #2f558d;
+  background: transparent;
+  border: transparent;
+  cursor: pointer;
+  padding: 0;
+  font-size: medium;
+  font-weight: bold;
+`;
 
 const NoticeTitle = styled.h3``;
 const NoticeDescription = styled.span``;
